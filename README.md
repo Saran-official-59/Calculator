@@ -7,4 +7,4 @@
 
 **Real-Time Calculation:** As soon as the user submits their input, the system will instantly compute the squared value and display it on the screen.
 
-Website Link is [HERE](https://github.com/Saran-official-59/SquareValues/edit/main/README.md).
+
