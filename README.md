@@ -16,7 +16,7 @@ A clean and responsive web-based calculator built using **HTML**, **CSS**, and *
 
 ## 🖼️ Preview
 
-![Calculator Screenshot](screenshot.png)
+![Calculator Screenshot](./asstes/images/screenshot.png)
 
 > Add a screenshot of your calculator here by saving it as `screenshot.png` in your repo.
 
